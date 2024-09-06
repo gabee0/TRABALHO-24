@@ -31,7 +31,7 @@ body {
         background-image: 
             linear-gradient(to right, black, transparent), /* Degradê preto da esquerda para a direita */
             linear-gradient(to top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
-            url("img/brigadeiro.jpeg"); /* Imagem de fundo */
+            /* url ("img/brigadeiro.jpeg");  Imagem de fundo */
     
         /* Configurações da imagem de fundo */
        
